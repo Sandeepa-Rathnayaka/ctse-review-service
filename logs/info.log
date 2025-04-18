@@ -1,0 +1,10 @@
+2025-04-17T15:41:14.804Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:41:14.814Z :- INFO   : Review Service is running on port 8005🚀
+2025-04-17T15:58:40.579Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-17T15:59:10.459Z :- INFO   : MongoDB connected successfully 😍
+2025-04-17T15:59:10.476Z :- INFO   : Review Service is running on port 8005🚀
+2025-04-17T21:24:45.527Z :- INFO   : MongoDB disconnected 😢
+2025-04-18T04:02:03.452Z :- INFO   : SIGINT signal received: closing HTTP server
+2025-04-18T04:02:41.693Z :- INFO   : MongoDB connected successfully 😍
+2025-04-18T04:02:41.703Z :- INFO   : Review Service is running on port 8005🚀
+2025-04-18T10:43:31.362Z :- INFO   : MongoDB disconnected 😢
